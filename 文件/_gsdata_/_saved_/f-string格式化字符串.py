@@ -2,7 +2,7 @@ a = float(input("请输入a:"))
 b = float(input("请输入b:"))
 c = float(input("请输入c:"))
 print("a+b+c="+ str(a + b +c))
-print(f"a+b+c={a + b + c}")
+print("a+b+c={}".format(a + b + c))
 print("a+b+c=%s" % (a + b + c))
 
   # f-string

@@ -1,0 +1,41 @@
+2020-04-05 20:28:38: ----- ：任务 'python文件'：计算机 'DESKTOP-2EMGL50' 上的分析操作已由 User 所启动 (GoodSync v 9.8.0.0) -----
+2020-04-05 20:28:38: G:\MyGithub\Lenrning\文件 (G:/MyGithub/Lenrning/文件) <-> G:\我的坚果云\文件 (G:/我的坚果云/文件), ReconnectSecs=120
+2020-04-05 20:28:38: 左侧：文件： 38 (已排除 0)。文件夹： 2 (已排除 1)。 G: NTFS, 可用空间：233 GB，总计空间：278 GB
+2020-04-05 20:28:38: 右侧：文件： 55 (已排除 0)。文件夹： 5 (已排除 1)。 G: NTFS, 可用空间：233 GB，总计空间：278 GB
+2020-04-05 20:28:38: 变更：26， 冲突：0， 复制时间：0， 复制状态：0/0， 错误： 0
+2020-04-05 20:28:38: Right to Left: Copy File: 25 Delete File: 1 
+2020-04-05 20:28:38: ----- ：分析已结束。 历时 00:00:00， 速度： Many 个文件/秒 -----
+2020-04-05 20:28:38: 
+2020-04-05 20:28:42: ===== ：任务 'python文件'：同步已被 User 所启动，位于计算机 'DESKTOP-2EMGL50' =====
+2020-04-05 20:28:42: G:\MyGithub\Lenrning\文件 (G:/MyGithub/Lenrning/文件) <-> G:\我的坚果云\文件 (G:/我的坚果云/文件), ReconnectSecs=120
+2020-04-05 20:28:42: 删除文件 'G:/MyGithub/Lenrning/文件/hello.py'
+2020-04-05 20:28:42: 创建文件夹 'G:/MyGithub/Lenrning/文件/.idea'
+2020-04-05 20:28:42: 创建文件夹 'G:/MyGithub/Lenrning/文件/.idea/inspectionProfiles'
+2020-04-05 20:28:42: 创建文件夹 'G:/MyGithub/Lenrning/文件/__pycache__'
+2020-04-05 20:28:42: 新建复制 'G:/我的坚果云/文件/.idea/inspectionProfiles/profiles_settings.xml' -> 'G:/MyGithub/Lenrning/文件/.idea/inspectionProfiles/profiles_settings.xml'
+2020-04-05 20:28:42: 新建复制 'G:/我的坚果云/文件/.idea/misc.xml' -> 'G:/MyGithub/Lenrning/文件/.idea/misc.xml'
+2020-04-05 20:28:42: 新建复制 'G:/我的坚果云/文件/.idea/modules.xml' -> 'G:/MyGithub/Lenrning/文件/.idea/modules.xml'
+2020-04-05 20:28:42: 新建复制 'G:/我的坚果云/文件/.idea/workspace.xml' -> 'G:/MyGithub/Lenrning/文件/.idea/workspace.xml'
+2020-04-05 20:28:42: 新建复制 'G:/我的坚果云/文件/.idea/文件.iml' -> 'G:/MyGithub/Lenrning/文件/.idea/文件.iml'
+2020-04-05 20:28:42: 新建复制 'G:/我的坚果云/文件/__未命名.py' -> 'G:/MyGithub/Lenrning/文件/__未命名.py'
+2020-04-05 20:28:42: 覆盖复制 'G:/我的坚果云/文件/CRAPS赌博游戏.py' -> 'G:/MyGithub/Lenrning/文件/CRAPS赌博游戏.py'
+2020-04-05 20:28:42: 覆盖复制 'G:/我的坚果云/文件/f-string格式化字符串.py' -> 'G:/MyGithub/Lenrning/文件/f-string格式化字符串.py'
+2020-04-05 20:28:42: 新建复制 'G:/我的坚果云/文件/ieter,functools_partial.py' -> 'G:/MyGithub/Lenrning/文件/ieter,functools_partial.py'
+2020-04-05 20:28:42: 新建复制 'G:/我的坚果云/文件/python-100-days练习/@property@setter.py' -> 'G:/MyGithub/Lenrning/文件/python-100-days练习/@property@setter.py'
+2020-04-05 20:28:42: 新建复制 'G:/我的坚果云/文件/python-100-days练习/快速排序.py' -> 'G:/MyGithub/Lenrning/文件/python-100-days练习/快速排序.py'
+2020-04-05 20:28:42: 覆盖复制 'G:/我的坚果云/文件/python-100-days练习/设计一个函数产生指定长度的验证码，验证码由大小写字母和数字构成.py' -> 'G:/MyGithub/Lenrning/文件/python-100-days练习/设计一个函数产生指定长度的验证码，验证码由大小写字母和数字构成.py'
+2020-04-05 20:28:42: 新建复制 'G:/我的坚果云/文件/random模块.py' -> 'G:/MyGithub/Lenrning/文件/random模块.py'
+2020-04-05 20:28:42: 新建复制 'G:/我的坚果云/文件/test.txt' -> 'G:/MyGithub/Lenrning/文件/test.txt'
+2020-04-05 20:28:42: 新建复制 'G:/我的坚果云/文件/批量转换.py' -> 'G:/MyGithub/Lenrning/文件/批量转换.py'
+2020-04-05 20:28:42: 新建复制 'G:/我的坚果云/文件/排列组合.py' -> 'G:/MyGithub/Lenrning/文件/排列组合.py'
+2020-04-05 20:28:42: 新建复制 'G:/我的坚果云/文件/正则表达式.py' -> 'G:/MyGithub/Lenrning/文件/正则表达式.py'
+2020-04-05 20:28:42: 新建复制 'G:/我的坚果云/文件/洛谷/P1177 【模板】快速排序.py' -> 'G:/MyGithub/Lenrning/文件/洛谷/P1177 【模板】快速排序.py'
+2020-04-05 20:28:42: 新建复制 'G:/我的坚果云/文件/洛谷/P5737 【深基7.例3】闰年展示.py' -> 'G:/MyGithub/Lenrning/文件/洛谷/P5737 【深基7.例3】闰年展示.py'
+2020-04-05 20:28:42: 覆盖复制 'G:/我的坚果云/文件/洛谷/明明的随机数.py' -> 'G:/MyGithub/Lenrning/文件/洛谷/明明的随机数.py'
+2020-04-05 20:28:42: 新建复制 'G:/我的坚果云/文件/素数.doc' -> 'G:/MyGithub/Lenrning/文件/素数.doc'
+2020-04-05 20:28:42: 新建复制 'G:/我的坚果云/文件/读写文件.py' -> 'G:/MyGithub/Lenrning/文件/读写文件.py'
+2020-04-05 20:28:42: 保存状态文件 G:/MyGithub/Lenrning/文件/_gsdata_/_file_state_v4._gs
+2020-04-05 20:28:42: 保存状态文件 G:/我的坚果云/文件/_gsdata_/_file_state_v4._gs
+2020-04-05 20:28:42: 项目同步未必： 26，错误： 0
+2020-04-05 20:28:42: ===== ：同步完毕。时间：00:00:00，速度： 0 字节/s =====
+2020-04-05 20:28:42: 

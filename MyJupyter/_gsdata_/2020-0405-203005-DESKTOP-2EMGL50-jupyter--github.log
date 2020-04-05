@@ -1,0 +1,37 @@
+2020-04-05 20:30:05: ----- ：任务 'jupyter--github'：计算机 'DESKTOP-2EMGL50' 上的分析操作已由 User 所启动 (GoodSync v 9.8.0.0) -----
+2020-04-05 20:30:05: G:\MyJupyter (G:/MyJupyter) <-> G:\MyGithub\Lenrning\MyJupyter (G:/MyGithub/Lenrning/MyJupyter), ReconnectSecs=120
+2020-04-05 20:30:05: 左侧: State file does not exist: G:/MyJupyter/_gsdata_/_file_state_v4._gs
+2020-04-05 20:30:05: 左侧：文件： 16 (已排除 0)。文件夹： 3 (已排除 0)。 G: NTFS, 可用空间：233 GB，总计空间：278 GB
+2020-04-05 20:30:05: 右侧: State file does not exist: G:/MyGithub/Lenrning/MyJupyter/_gsdata_/_file_state_v4._gs
+2020-04-05 20:30:05: 右侧：文件： 0 (已排除 0)。文件夹： 0 (已排除 0)。 G: NTFS, 可用空间：233 GB，总计空间：278 GB
+2020-04-05 20:30:05: 变更：19， 冲突：0， 复制时间：0， 复制状态：0/0， 错误： 0
+2020-04-05 20:30:05: Left to Right: Copy File: 19 
+2020-04-05 20:30:05: ----- ：分析已结束。 历时 00:00:00， 速度： Many 个文件/秒 -----
+2020-04-05 20:30:05: 
+2020-04-05 20:30:06: New _gsdata_ folder(s) created, so rescan all job folders for their ghosts
+2020-04-05 20:30:06: ===== ：任务 'jupyter--github'：同步已被 User 所启动，位于计算机 'DESKTOP-2EMGL50' =====
+2020-04-05 20:30:06: G:\MyJupyter (G:/MyJupyter) <-> G:\MyGithub\Lenrning\MyJupyter (G:/MyGithub/Lenrning/MyJupyter), ReconnectSecs=120
+2020-04-05 20:30:06: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/.ipynb_checkpoints'
+2020-04-05 20:30:06: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/练习'
+2020-04-05 20:30:06: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/练习/.ipynb_checkpoints'
+2020-04-05 20:30:06: 新建复制 'G:/MyJupyter/.ipynb_checkpoints/@property装饰器-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/.ipynb_checkpoints/@property装饰器-checkpoint.ipynb'
+2020-04-05 20:30:06: 新建复制 'G:/MyJupyter/.ipynb_checkpoints/__未命名-checkpoint.py' -> 'G:/MyGithub/Lenrning/MyJupyter/.ipynb_checkpoints/__未命名-checkpoint.py'
+2020-04-05 20:30:06: 新建复制 'G:/MyJupyter/.ipynb_checkpoints/Untitled1-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/.ipynb_checkpoints/Untitled1-checkpoint.ipynb'
+2020-04-05 20:30:06: 新建复制 'G:/MyJupyter/.ipynb_checkpoints/坐标-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/.ipynb_checkpoints/坐标-checkpoint.ipynb'
+2020-04-05 20:30:06: 新建复制 'G:/MyJupyter/.ipynb_checkpoints/定义一个类描述数字时钟-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/.ipynb_checkpoints/定义一个类描述数字时钟-checkpoint.ipynb'
+2020-04-05 20:30:06: 新建复制 'G:/MyJupyter/.ipynb_checkpoints/类继承-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/.ipynb_checkpoints/类继承-checkpoint.ipynb'
+2020-04-05 20:30:06: 新建复制 'G:/MyJupyter/.ipynb_checkpoints/获取时间localtime()-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/.ipynb_checkpoints/获取时间localtime()-checkpoint.ipynb'
+2020-04-05 20:30:06: 新建复制 'G:/MyJupyter/@property装饰器.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/@property装饰器.ipynb'
+2020-04-05 20:30:06: 新建复制 'G:/MyJupyter/坐标.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/坐标.ipynb'
+2020-04-05 20:30:06: 新建复制 'G:/MyJupyter/定义一个类描述数字时钟.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/定义一个类描述数字时钟.ipynb'
+2020-04-05 20:30:06: 新建复制 'G:/MyJupyter/类.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/类.ipynb'
+2020-04-05 20:30:06: 新建复制 'G:/MyJupyter/类继承.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/类继承.ipynb'
+2020-04-05 20:30:06: 新建复制 'G:/MyJupyter/练习/.ipynb_checkpoints/random生成随机数-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/练习/.ipynb_checkpoints/random生成随机数-checkpoint.ipynb'
+2020-04-05 20:30:06: 新建复制 'G:/MyJupyter/练习/random生成随机数.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/练习/random生成随机数.ipynb'
+2020-04-05 20:30:06: 新建复制 'G:/MyJupyter/致橡树.txt' -> 'G:/MyGithub/Lenrning/MyJupyter/致橡树.txt'
+2020-04-05 20:30:06: 新建复制 'G:/MyJupyter/获取时间localtime().ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/获取时间localtime().ipynb'
+2020-04-05 20:30:06: 保存状态文件 G:/MyJupyter/_gsdata_/_file_state_v4._gs
+2020-04-05 20:30:06: 保存状态文件 G:/MyGithub/Lenrning/MyJupyter/_gsdata_/_file_state_v4._gs
+2020-04-05 20:30:06: 项目同步未必： 19，错误： 0
+2020-04-05 20:30:06: ===== ：同步完毕。时间：00:00:00，速度： 0 字节/s =====
+2020-04-05 20:30:06: 

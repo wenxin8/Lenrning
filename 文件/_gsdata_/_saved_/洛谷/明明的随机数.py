@@ -1,5 +1,5 @@
 #输入随机数的个数
-import random模块
+import random
 n = input()
 a = input().split()
 b = []

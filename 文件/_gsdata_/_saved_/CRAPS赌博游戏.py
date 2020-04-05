@@ -1,4 +1,4 @@
-from random模块 import randint
+from random import randint
 money = 1000
 while money > 0:
     print("你的总资产为:", money)
