@@ -1,0 +1,33 @@
+2020-04-06 21:59:46: ----- ：任务 'jupyter--github'：计算机 'DESKTOP-2EMGL50' 上的分析操作已由 User 所启动 (GoodSync v 9.8.0.0) -----
+2020-04-06 21:59:46: G:\MyJupyter (G:/MyJupyter) <-> G:\MyGithub\Lenrning\MyJupyter (G:/MyGithub/Lenrning/MyJupyter), ReconnectSecs=120
+2020-04-06 21:59:46: 左侧：文件： 24 (已排除 0)。文件夹： 3 (已排除 1)。 G: NTFS, 可用空间：233 GB，总计空间：278 GB
+2020-04-06 21:59:46: 右侧：文件： 15 (已排除 0)。文件夹： 1 (已排除 1)。 G: NTFS, 可用空间：233 GB，总计空间：278 GB
+2020-04-06 21:59:46: /random生成随机数.ipynb: 冲突: 新文件有变化
+2020-04-06 21:59:46: 分析完毕并发现冲突情况。如需解决冲突请选择正常的同步方向。
+2020-04-06 21:59:46: 变更：14， 冲突：1， 复制时间：0， 复制状态：0/1， 错误： 0
+2020-04-06 21:59:46: Left to Right: Copy File: 10 
+2020-04-06 21:59:46: Right to Left: Delete File: 3 
+2020-04-06 21:59:46: ----- ：分析已结束。 历时 00:00:00， 速度： Many 个文件/秒 -----
+2020-04-06 21:59:46: 
+2020-04-06 21:59:55: ===== ：任务 'jupyter--github'：同步已被 User 所启动，位于计算机 'DESKTOP-2EMGL50' =====
+2020-04-06 21:59:55: G:\MyJupyter (G:/MyJupyter) <-> G:\MyGithub\Lenrning\MyJupyter (G:/MyGithub/Lenrning/MyJupyter), ReconnectSecs=120
+2020-04-06 21:59:55: 删除文件 'G:/MyJupyter/练习/.ipynb_checkpoints/random生成随机数-checkpoint.ipynb'
+2020-04-06 21:59:55: 删除文件夹 'G:/MyJupyter/练习/.ipynb_checkpoints'
+2020-04-06 21:59:55: 删除文件夹 'G:/MyJupyter/练习'
+2020-04-06 21:59:55: 新建复制 'G:/MyJupyter/.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/.ipynb'
+2020-04-06 21:59:55: 新建复制 'G:/MyJupyter/.ipynb_checkpoints/.ipynb-checkpoint' -> 'G:/MyGithub/Lenrning/MyJupyter/.ipynb_checkpoints/.ipynb-checkpoint'
+2020-04-06 21:59:55: 新建复制 'G:/MyJupyter/.ipynb_checkpoints/math --- 数学函数-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/.ipynb_checkpoints/math --- 数学函数-checkpoint.ipynb'
+2020-04-06 21:59:55: 新建复制 'G:/MyJupyter/.ipynb_checkpoints/random生成随机数-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/.ipynb_checkpoints/random生成随机数-checkpoint.ipynb'
+2020-04-06 21:59:55: 覆盖复制 'G:/MyJupyter/.ipynb_checkpoints/坐标-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/.ipynb_checkpoints/坐标-checkpoint.ipynb'
+2020-04-06 21:59:55: 新建复制 'G:/MyJupyter/.ipynb_checkpoints/进程和线程-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/.ipynb_checkpoints/进程和线程-checkpoint.ipynb'
+2020-04-06 21:59:55: 新建复制 'G:/MyJupyter/f.txt' -> 'G:/MyGithub/Lenrning/MyJupyter/f.txt'
+2020-04-06 21:59:55: 新建复制 'G:/MyJupyter/math --- 数学函数.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/math --- 数学函数.ipynb'
+2020-04-06 21:59:55: /random生成随机数.ipynb: unresolved conflict results in No Copy
+2020-04-06 21:59:55: 覆盖复制 'G:/MyJupyter/坐标.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/坐标.ipynb'
+2020-04-06 21:59:55: 新建复制 'G:/MyJupyter/进程和线程.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/进程和线程.ipynb'
+2020-04-06 21:59:55: 保存状态文件 G:/MyJupyter/_gsdata_/_file_state_v4._gs
+2020-04-06 21:59:55: 保存状态文件 G:/MyGithub/Lenrning/MyJupyter/_gsdata_/_file_state_v4._gs
+2020-04-06 21:59:55: 同步完成，未解决的冲突数为 1 。点击冲突按钮即可查看未解决的冲突情况。
+2020-04-06 21:59:55: 项目同步未必： 14，错误： 0
+2020-04-06 21:59:55: ===== ：同步完毕。时间：00:00:00，速度： 0 字节/s =====
+2020-04-06 21:59:55: 
