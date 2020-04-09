@@ -17,7 +17,6 @@
   <component name="ProjectId" id="1ZqihUWZij6SPy1H4GkQt1BSCzI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
     <option name="sortByType" value="true" />
@@ -28,8 +27,13 @@
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.aaa">
-    <configuration name="排列组合 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\我的坚果云\文件\多进程和多线程" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.11">
+    <configuration name="多进程 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="文件" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,11 +41,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多进程和多线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排列组合.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多进程和多线程/多进程.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -50,7 +54,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="读写文件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="多进程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="文件" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +66,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="G:\我的坚果云\文件\读写文件.py" />
+      <option name="SCRIPT_NAME" value="G:\我的坚果云\文件\多进程和多线程\多进程.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Queue队列 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多进程和多线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多进程和多线程/Queue队列.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Queue队列" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多进程和多线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="G:\我的坚果云\文件\多进程和多线程\Queue队列.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,83 +180,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="__未命名" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="文件" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__未命名.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="aaa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="文件" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaa.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="random模块 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="文件" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random模块.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.排列组合 (1)" />
-      <item itemvalue="Python.读写文件" />
-      <item itemvalue="Python.__未命名" />
-      <item itemvalue="Python.random模块 (1)" />
-      <item itemvalue="Python.aaa" />
+      <item itemvalue="Python.多进程 (1)" />
+      <item itemvalue="Python.11" />
+      <item itemvalue="Python.Queue队列 (1)" />
+      <item itemvalue="Python.Queue队列" />
+      <item itemvalue="Python.多进程" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.aaa" />
-        <item itemvalue="Python.__未命名" />
-        <item itemvalue="Python.排列组合 (1)" />
-        <item itemvalue="Python.读写文件" />
-        <item itemvalue="Python.random模块 (1)" />
+        <item itemvalue="Python.11" />
+        <item itemvalue="Python.Queue队列 (1)" />
+        <item itemvalue="Python.Queue队列" />
+        <item itemvalue="Python.多进程 (1)" />
+        <item itemvalue="Python.多进程" />
       </list>
     </recent_temporary>
   </component>
@@ -243,30 +247,30 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="846" y="442" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1680.1010@0.0.1680.1010" timestamp="1585830488420" />
-    <state x="92" y="92" width="1496" height="826" key="DiffContextDialog" timestamp="1585988987549">
+    <state x="92" y="92" width="1496" height="826" key="DiffContextDialog" timestamp="1586352246591">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="92" y="92" width="1496" height="826" key="DiffContextDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1585988987549" />
+    <state x="92" y="92" width="1496" height="826" key="DiffContextDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1586352246591" />
     <state x="867" y="321" key="FileChooserDialogImpl" timestamp="1586256326526">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="867" y="321" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1586256326526" />
-    <state width="1659" height="321" key="GridCell.Tab.0.bottom" timestamp="1586260884802">
+    <state width="929" height="321" key="GridCell.Tab.0.bottom" timestamp="1586354351405">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1659" height="321" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1586260884802" />
-    <state width="1659" height="321" key="GridCell.Tab.0.center" timestamp="1586260884802">
+    <state width="929" height="321" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1586354351405" />
+    <state width="929" height="321" key="GridCell.Tab.0.center" timestamp="1586354351405">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1659" height="321" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1586260884802" />
-    <state width="1659" height="321" key="GridCell.Tab.0.left" timestamp="1586260884802">
+    <state width="929" height="321" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1586354351405" />
+    <state width="929" height="321" key="GridCell.Tab.0.left" timestamp="1586354351405">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1659" height="321" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1586260884802" />
-    <state width="1659" height="321" key="GridCell.Tab.0.right" timestamp="1586260884802">
+    <state width="929" height="321" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1586354351405" />
+    <state width="929" height="321" key="GridCell.Tab.0.right" timestamp="1586354351405">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1659" height="321" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1586260884802" />
+    <state width="929" height="321" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1586354351405" />
     <state width="1090" height="324" key="GridCell.Tab.1.bottom" timestamp="1585834552316">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
