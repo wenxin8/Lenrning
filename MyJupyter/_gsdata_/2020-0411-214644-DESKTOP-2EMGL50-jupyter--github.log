@@ -1,0 +1,18 @@
+2020-04-11 21:46:44: ----- ：任务 'jupyter--github'：计算机 'DESKTOP-2EMGL50' 上的分析操作已由 User 所启动 (GoodSync v 9.8.0.0) -----
+2020-04-11 21:46:44: G:\MyJupyter (G:/MyJupyter) <-> G:\MyGithub\Lenrning\MyJupyter (G:/MyGithub/Lenrning/MyJupyter), ReconnectSecs=120
+2020-04-11 21:46:44: 左侧：文件： 45 (已排除 0)。文件夹： 7 (已排除 1)。 G: NTFS, 可用空间：233 GB，总计空间：278 GB
+2020-04-11 21:46:44: 右侧：文件： 43 (已排除 0)。文件夹： 7 (已排除 1)。 G: NTFS, 可用空间：233 GB，总计空间：278 GB
+2020-04-11 21:46:44: 变更：3， 冲突：0， 复制时间：0， 复制状态：0/0， 错误： 0
+2020-04-11 21:46:44: Left to Right: Copy File: 3 
+2020-04-11 21:46:44: ----- ：分析已结束。 历时 00:00:00， 速度： Many 个文件/秒 -----
+2020-04-11 21:46:44: 
+2020-04-11 21:46:45: ===== ：任务 'jupyter--github'：同步已被 User 所启动，位于计算机 'DESKTOP-2EMGL50' =====
+2020-04-11 21:46:45: G:\MyJupyter (G:/MyJupyter) <-> G:\MyGithub\Lenrning\MyJupyter (G:/MyGithub/Lenrning/MyJupyter), ReconnectSecs=120
+2020-04-11 21:46:45: 新建复制 'G:/MyJupyter/标准库/.ipynb_checkpoints/Untitled-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/.ipynb_checkpoints/Untitled-checkpoint.ipynb'
+2020-04-11 21:46:45: 覆盖复制 'G:/MyJupyter/标准库/math --- 数学函数.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/math --- 数学函数.ipynb'
+2020-04-11 21:46:45: 新建复制 'G:/MyJupyter/标准库/Untitled.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/Untitled.ipynb'
+2020-04-11 21:46:45: 保存状态文件 G:/MyJupyter/_gsdata_/_file_state_v4._gs
+2020-04-11 21:46:45: 保存状态文件 G:/MyGithub/Lenrning/MyJupyter/_gsdata_/_file_state_v4._gs
+2020-04-11 21:46:45: 项目同步未必： 3，错误： 0
+2020-04-11 21:46:45: ===== ：同步完毕。时间：00:00:00，速度： 0 字节/s =====
+2020-04-11 21:46:45: 
