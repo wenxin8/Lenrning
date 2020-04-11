@@ -1,0 +1,29 @@
+2020-04-11 11:42:31: ----- ：任务 'jupyter--github'：计算机 'DESKTOP-2EMGL50' 上的分析操作已由 User 所启动 (GoodSync v 9.8.0.0) -----
+2020-04-11 11:42:31: G:\MyJupyter (G:/MyJupyter) <-> G:\MyGithub\Lenrning\MyJupyter (G:/MyGithub/Lenrning/MyJupyter), ReconnectSecs=120
+2020-04-11 11:42:31: 左侧：文件： 43 (已排除 0)。文件夹： 7 (已排除 1)。 G: NTFS, 可用空间：233 GB，总计空间：278 GB
+2020-04-11 11:42:31: 右侧：文件： 35 (已排除 0)。文件夹： 3 (已排除 1)。 G: NTFS, 可用空间：233 GB，总计空间：278 GB
+2020-04-11 11:42:31: 变更：16， 冲突：0， 复制时间：0， 复制状态：0/0， 错误： 0
+2020-04-11 11:42:31: Left to Right: Copy File: 12 Rename/Move File/Folder: 4 
+2020-04-11 11:42:31: ----- ：分析已结束。 历时 00:00:00， 速度： Many 个文件/秒 -----
+2020-04-11 11:42:31: 
+2020-04-11 11:42:32: ===== ：任务 'jupyter--github'：同步已被 User 所启动，位于计算机 'DESKTOP-2EMGL50' =====
+2020-04-11 11:42:32: G:\MyJupyter (G:/MyJupyter) <-> G:\MyGithub\Lenrning\MyJupyter (G:/MyGithub/Lenrning/MyJupyter), ReconnectSecs=120
+2020-04-11 11:42:32: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/标准库'
+2020-04-11 11:42:32: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/标准库/.ipynb_checkpoints'
+2020-04-11 11:42:32: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/洛谷'
+2020-04-11 11:42:32: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/洛谷/.ipynb_checkpoints'
+2020-04-11 11:42:32: 移动文件 G:/MyGithub/Lenrning/MyJupyter/.ipynb_checkpoints/math --- 数学函数-checkpoint.ipynb -> G:/MyGithub/Lenrning/MyJupyter/标准库/.ipynb_checkpoints/math --- 数学函数-checkpoint.ipynb
+2020-04-11 11:42:32: 移动文件 G:/MyGithub/Lenrning/MyJupyter/math --- 数学函数.ipynb -> G:/MyGithub/Lenrning/MyJupyter/标准库/math --- 数学函数.ipynb
+2020-04-11 11:42:32: 新建复制 'G:/MyJupyter/标准库/.ipynb_checkpoints/datetime---基本的日期和时间类型-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/.ipynb_checkpoints/datetime---基本的日期和时间类型-checkpoint.ipynb'
+2020-04-11 11:42:32: 新建复制 'G:/MyJupyter/标准库/datetime---基本的日期和时间类型.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/datetime---基本的日期和时间类型.ipynb'
+2020-04-11 11:42:32: 新建复制 'G:/MyJupyter/洛谷/.ipynb_checkpoints/P5710数的性质-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/洛谷/.ipynb_checkpoints/P5710数的性质-checkpoint.ipynb'
+2020-04-11 11:42:32: 新建复制 'G:/MyJupyter/洛谷/.ipynb_checkpoints/P5715三位数排序-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/洛谷/.ipynb_checkpoints/P5715三位数排序-checkpoint.ipynb'
+2020-04-11 11:42:32: 新建复制 'G:/MyJupyter/洛谷/.ipynb_checkpoints/Untitled-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/洛谷/.ipynb_checkpoints/Untitled-checkpoint.ipynb'
+2020-04-11 11:42:32: 新建复制 'G:/MyJupyter/洛谷/P5710数的性质.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/洛谷/P5710数的性质.ipynb'
+2020-04-11 11:42:32: 新建复制 'G:/MyJupyter/洛谷/P5715三位数排序.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/洛谷/P5715三位数排序.ipynb'
+2020-04-11 11:42:32: 新建复制 'G:/MyJupyter/洛谷/Untitled.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/洛谷/Untitled.ipynb'
+2020-04-11 11:42:32: 保存状态文件 G:/MyJupyter/_gsdata_/_file_state_v4._gs
+2020-04-11 11:42:32: 保存状态文件 G:/MyGithub/Lenrning/MyJupyter/_gsdata_/_file_state_v4._gs
+2020-04-11 11:42:32: 项目同步未必： 16，错误： 0
+2020-04-11 11:42:32: ===== ：同步完毕。时间：00:00:00，速度： 0 字节/s =====
+2020-04-11 11:42:32: 
