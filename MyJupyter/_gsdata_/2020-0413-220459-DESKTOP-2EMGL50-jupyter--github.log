@@ -1,0 +1,42 @@
+2020-04-13 22:04:59: ----- ：任务 'jupyter--github'：计算机 'DESKTOP-2EMGL50' 上的分析操作已由 User 所启动 (GoodSync v 9.8.0.0) -----
+2020-04-13 22:04:59: G:\MyJupyter (G:/MyJupyter) <-> G:\MyGithub\Lenrning\MyJupyter (G:/MyGithub/Lenrning/MyJupyter), ReconnectSecs=120
+2020-04-13 22:04:59: 左侧：文件： 83 (已排除 0)。文件夹： 18 (已排除 1)。 G: NTFS, 可用空间：233 GB，总计空间：278 GB
+2020-04-13 22:04:59: 右侧：文件： 65 (已排除 0)。文件夹： 9 (已排除 1)。 G: NTFS, 可用空间：233 GB，总计空间：278 GB
+2020-04-13 22:04:59: 变更：27， 冲突：0， 复制时间：0， 复制状态：0/0， 错误： 0
+2020-04-13 22:04:59: Left to Right: Copy File: 27 
+2020-04-13 22:04:59: ----- ：分析已结束。 历时 00:00:00， 速度： Many 个文件/秒 -----
+2020-04-13 22:04:59: 
+2020-04-13 22:05:00: ===== ：任务 'jupyter--github'：同步已被 User 所启动，位于计算机 'DESKTOP-2EMGL50' =====
+2020-04-13 22:05:00: G:\MyJupyter (G:/MyJupyter) <-> G:\MyGithub\Lenrning\MyJupyter (G:/MyGithub/Lenrning/MyJupyter), ReconnectSecs=120
+2020-04-13 22:05:00: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/Pillow_'
+2020-04-13 22:05:00: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/Pillow_/.ipynb_checkpoints'
+2020-04-13 22:05:00: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/Pillow_/temp'
+2020-04-13 22:05:00: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/字符串和文本'
+2020-04-13 22:05:00: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/字符串和文本/.ipynb_checkpoints'
+2020-04-13 22:05:00: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块'
+2020-04-13 22:05:00: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints'
+2020-04-13 22:05:00: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/temp'
+2020-04-13 22:05:00: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/temp/.ipynb_checkpoints'
+2020-04-13 22:05:00: 新建复制 'G:/MyJupyter/Pillow_/.ipynb_checkpoints/ImageFilter模块-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/Pillow_/.ipynb_checkpoints/ImageFilter模块-checkpoint.ipynb'
+2020-04-13 22:05:00: 新建复制 'G:/MyJupyter/Pillow_/.ipynb_checkpoints/pic-checkpoint.jpg' -> 'G:/MyGithub/Lenrning/MyJupyter/Pillow_/.ipynb_checkpoints/pic-checkpoint.jpg'
+2020-04-13 22:05:00: 新建复制 'G:/MyJupyter/Pillow_/.ipynb_checkpoints/thumbnail-checkpoint.png' -> 'G:/MyGithub/Lenrning/MyJupyter/Pillow_/.ipynb_checkpoints/thumbnail-checkpoint.png'
+2020-04-13 22:05:00: 新建复制 'G:/MyJupyter/Pillow_/ImageFilter模块.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/Pillow_/ImageFilter模块.ipynb'
+2020-04-13 22:05:00: 新建复制 'G:/MyJupyter/Pillow_/pic.jpg' -> 'G:/MyGithub/Lenrning/MyJupyter/Pillow_/pic.jpg'
+2020-04-13 22:05:00: 新建复制 'G:/MyJupyter/Pillow_/thumbnail.png' -> 'G:/MyGithub/Lenrning/MyJupyter/Pillow_/thumbnail.png'
+2020-04-13 22:05:00: 新建复制 'G:/MyJupyter/temp/.ipynb_checkpoints/pic-checkpoint.jpg' -> 'G:/MyGithub/Lenrning/MyJupyter/temp/.ipynb_checkpoints/pic-checkpoint.jpg'
+2020-04-13 22:05:00: 新建复制 'G:/MyJupyter/字符串和文本/.ipynb_checkpoints/Untitled-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/字符串和文本/.ipynb_checkpoints/Untitled-checkpoint.ipynb'
+2020-04-13 22:05:00: 新建复制 'G:/MyJupyter/字符串和文本/Untitled.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/字符串和文本/Untitled.ipynb'
+2020-04-13 22:05:00: 新建复制 'G:/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/PythonGUILearning-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/PythonGUILearning-checkpoint.ipynb'
+2020-04-13 22:05:00: 新建复制 'G:/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/say_hi-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/say_hi-checkpoint.ipynb'
+2020-04-13 22:05:00: 新建复制 'G:/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/tkinter模块-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/tkinter模块-checkpoint.ipynb'
+2020-04-13 22:05:00: 新建复制 'G:/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/Untitled-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/Untitled-checkpoint.ipynb'
+2020-04-13 22:05:00: 新建复制 'G:/MyJupyter/标准库/tkinter模块/PythonGUILearning.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/PythonGUILearning.ipynb'
+2020-04-13 22:05:00: 新建复制 'G:/MyJupyter/标准库/tkinter模块/say_hi.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/say_hi.ipynb'
+2020-04-13 22:05:00: 新建复制 'G:/MyJupyter/标准库/tkinter模块/temp/1.jpg' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/temp/1.jpg'
+2020-04-13 22:05:00: 新建复制 'G:/MyJupyter/标准库/tkinter模块/tkinter模块.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/tkinter模块.ipynb'
+2020-04-13 22:05:00: 新建复制 'G:/MyJupyter/标准库/tkinter模块/Untitled.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/Untitled.ipynb'
+2020-04-13 22:05:00: 保存状态文件 G:/MyJupyter/_gsdata_/_file_state_v4._gs
+2020-04-13 22:05:00: 保存状态文件 G:/MyGithub/Lenrning/MyJupyter/_gsdata_/_file_state_v4._gs
+2020-04-13 22:05:00: 项目同步未必： 27，错误： 0
+2020-04-13 22:05:00: ===== ：同步完毕。时间：00:00:00，速度： 0 字节/s =====
+2020-04-13 22:05:00: 
