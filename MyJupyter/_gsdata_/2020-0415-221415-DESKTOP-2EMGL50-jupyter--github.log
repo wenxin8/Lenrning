@@ -1,0 +1,26 @@
+2020-04-15 22:14:15: ----- ：任务 'jupyter--github'：计算机 'DESKTOP-2EMGL50' 上的分析操作已由 User 所启动 (GoodSync v 9.8.0.0) -----
+2020-04-15 22:14:15: G:\MyJupyter (G:/MyJupyter) <-> G:\MyGithub\Lenrning\MyJupyter (G:/MyGithub/Lenrning/MyJupyter), ReconnectSecs=120
+2020-04-15 22:14:15: 左侧：文件： 105 (已排除 0)。文件夹： 18 (已排除 1)。 G: NTFS, 可用空间：233 GB，总计空间：278 GB
+2020-04-15 22:14:15: 右侧：文件： 96 (已排除 0)。文件夹： 18 (已排除 1)。 G: NTFS, 可用空间：233 GB，总计空间：278 GB
+2020-04-15 22:14:15: 变更：11， 冲突：0， 复制时间：0， 复制状态：0/0， 错误： 0
+2020-04-15 22:14:15: Left to Right: Copy File: 11 
+2020-04-15 22:14:15: ----- ：分析已结束。 历时 00:00:00， 速度： Many 个文件/秒 -----
+2020-04-15 22:14:15: 
+2020-04-15 22:14:16: ===== ：任务 'jupyter--github'：同步已被 User 所启动，位于计算机 'DESKTOP-2EMGL50' =====
+2020-04-15 22:14:16: G:\MyJupyter (G:/MyJupyter) <-> G:\MyGithub\Lenrning\MyJupyter (G:/MyGithub/Lenrning/MyJupyter), ReconnectSecs=120
+2020-04-15 22:14:16: 新建复制 'G:/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/grid布局-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/grid布局-checkpoint.ipynb'
+2020-04-15 22:14:16: 新建复制 'G:/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/messagebox弹窗-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/messagebox弹窗-checkpoint.ipynb'
+2020-04-15 22:14:16: 覆盖复制 'G:/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/框架按钮布局-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/框架按钮布局-checkpoint.ipynb'
+2020-04-15 22:14:16: 新建复制 'G:/MyJupyter/标准库/tkinter模块/grid布局.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/grid布局.ipynb'
+2020-04-15 22:14:16: 新建复制 'G:/MyJupyter/标准库/tkinter模块/messagebox弹窗.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/messagebox弹窗.ipynb'
+2020-04-15 22:14:16: 新建复制 'G:/MyJupyter/标准库/tkinter模块/temp/4.jpg' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/temp/4.jpg'
+2020-04-15 22:14:16: 新建复制 'G:/MyJupyter/标准库/tkinter模块/temp/grid1.jpg' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/temp/grid1.jpg'
+2020-04-15 22:14:16: 新建复制 'G:/MyJupyter/标准库/tkinter模块/temp/grid2.jpg' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/temp/grid2.jpg'
+2020-04-15 22:14:16: 新建复制 'G:/MyJupyter/标准库/tkinter模块/temp/grid3.jpg' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/temp/grid3.jpg'
+2020-04-15 22:14:16: 新建复制 'G:/MyJupyter/标准库/tkinter模块/temp/test.gif' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/temp/test.gif'
+2020-04-15 22:14:16: 覆盖复制 'G:/MyJupyter/标准库/tkinter模块/框架按钮布局.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/框架按钮布局.ipynb'
+2020-04-15 22:14:17: 保存状态文件 G:/MyJupyter/_gsdata_/_file_state_v4._gs
+2020-04-15 22:14:17: 保存状态文件 G:/MyGithub/Lenrning/MyJupyter/_gsdata_/_file_state_v4._gs
+2020-04-15 22:14:17: 项目同步未必： 11，错误： 0
+2020-04-15 22:14:17: ===== ：同步完毕。时间：00:00:01，速度： 0 字节/s =====
+2020-04-15 22:14:17: 
