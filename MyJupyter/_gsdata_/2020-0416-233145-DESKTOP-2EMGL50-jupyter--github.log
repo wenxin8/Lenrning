@@ -1,0 +1,33 @@
+2020-04-16 23:31:45: ----- ：任务 'jupyter--github'：计算机 'DESKTOP-2EMGL50' 上的分析操作已由 User 所启动 (GoodSync v 9.8.0.0) -----
+2020-04-16 23:31:45: G:\MyJupyter (G:/MyJupyter) <-> G:\MyGithub\Lenrning\MyJupyter (G:/MyGithub/Lenrning/MyJupyter), ReconnectSecs=120
+2020-04-16 23:31:46: 左侧：文件： 113 (已排除 0)。文件夹： 18 (已排除 1)。 G: NTFS, 可用空间：233 GB，总计空间：278 GB
+2020-04-16 23:31:46: 右侧：文件： 105 (已排除 0)。文件夹： 18 (已排除 1)。 G: NTFS, 可用空间：233 GB，总计空间：278 GB
+2020-04-16 23:31:46: 变更：17， 冲突：0， 复制时间：0， 复制状态：0/0， 错误： 0
+2020-04-16 23:31:46: Left to Right: Copy File: 16 
+2020-04-16 23:31:46: Right to Left: Copy File: 1 
+2020-04-16 23:31:46: ----- ：分析已结束。 历时 00:00:01， 速度： 132 个文件/秒 -----
+2020-04-16 23:31:46: 
+2020-04-16 23:31:47: ===== ：任务 'jupyter--github'：同步已被 User 所启动，位于计算机 'DESKTOP-2EMGL50' =====
+2020-04-16 23:31:47: G:\MyJupyter (G:/MyJupyter) <-> G:\MyGithub\Lenrning\MyJupyter (G:/MyGithub/Lenrning/MyJupyter), ReconnectSecs=120
+2020-04-16 23:31:47: 覆盖复制 'G:/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/Entry&Text-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/Entry&Text-checkpoint.ipynb'
+2020-04-16 23:31:47: 覆盖复制 'G:/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/say_hi-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/say_hi-checkpoint.ipynb'
+2020-04-16 23:31:47: 覆盖复制 'G:/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/tkinter模块-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/tkinter模块-checkpoint.ipynb'
+2020-04-16 23:31:47: 新建复制 'G:/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/大杂烩-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/大杂烩-checkpoint.ipynb'
+2020-04-16 23:31:47: 覆盖复制 'G:/MyJupyter/标准库/tkinter模块/Entry&Text.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/Entry&Text.ipynb'
+2020-04-16 23:31:47: 覆盖复制 'G:/MyJupyter/标准库/tkinter模块/messagebox弹窗.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/messagebox弹窗.ipynb'
+2020-04-16 23:31:47: 覆盖复制 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/PythonGUILearning.ipynb' -> 'G:/MyJupyter/标准库/tkinter模块/PythonGUILearning.ipynb'
+2020-04-16 23:31:47: 覆盖复制 'G:/MyJupyter/标准库/tkinter模块/say_hi.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/say_hi.ipynb'
+2020-04-16 23:31:47: 新建复制 'G:/MyJupyter/标准库/tkinter模块/temp/.ipynb_checkpoints/3-checkpoint.jpg' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/temp/.ipynb_checkpoints/3-checkpoint.jpg'
+2020-04-16 23:31:47: 新建复制 'G:/MyJupyter/标准库/tkinter模块/temp/.ipynb_checkpoints/4-checkpoint.jpg' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/temp/.ipynb_checkpoints/4-checkpoint.jpg'
+2020-04-16 23:31:47: 新建复制 'G:/MyJupyter/标准库/tkinter模块/temp/.ipynb_checkpoints/grid1-checkpoint.jpg' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/temp/.ipynb_checkpoints/grid1-checkpoint.jpg'
+2020-04-16 23:31:47: 新建复制 'G:/MyJupyter/标准库/tkinter模块/temp/.ipynb_checkpoints/grid2-checkpoint.jpg' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/temp/.ipynb_checkpoints/grid2-checkpoint.jpg'
+2020-04-16 23:31:47: 新建复制 'G:/MyJupyter/标准库/tkinter模块/temp/.ipynb_checkpoints/grid3-checkpoint.jpg' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/temp/.ipynb_checkpoints/grid3-checkpoint.jpg'
+2020-04-16 23:31:47: 新建复制 'G:/MyJupyter/标准库/tkinter模块/temp/.ipynb_checkpoints/test-checkpoint.gif' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/temp/.ipynb_checkpoints/test-checkpoint.gif'
+2020-04-16 23:31:47: 覆盖复制 'G:/MyJupyter/标准库/tkinter模块/tkinter模块.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/tkinter模块.ipynb'
+2020-04-16 23:31:47: 覆盖复制 'G:/MyJupyter/标准库/tkinter模块/加载图片.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/加载图片.ipynb'
+2020-04-16 23:31:47: 新建复制 'G:/MyJupyter/标准库/tkinter模块/大杂烩.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/大杂烩.ipynb'
+2020-04-16 23:31:47: 保存状态文件 G:/MyJupyter/_gsdata_/_file_state_v4._gs
+2020-04-16 23:31:47: 保存状态文件 G:/MyGithub/Lenrning/MyJupyter/_gsdata_/_file_state_v4._gs
+2020-04-16 23:31:47: 项目同步未必： 17，错误： 0
+2020-04-16 23:31:47: ===== ：同步完毕。时间：00:00:00，速度： 0 字节/s =====
+2020-04-16 23:31:47: 
