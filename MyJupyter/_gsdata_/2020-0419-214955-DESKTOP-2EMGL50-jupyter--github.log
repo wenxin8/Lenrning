@@ -1,0 +1,19 @@
+2020-04-19 21:49:55: ----- ：任务 'jupyter--github'：计算机 'DESKTOP-2EMGL50' 上的分析操作已由 User 所启动 (GoodSync v 9.8.0.0) -----
+2020-04-19 21:49:55: G:\MyJupyter (G:/MyJupyter) <-> G:\MyGithub\Lenrning\MyJupyter (G:/MyGithub/Lenrning/MyJupyter), ReconnectSecs=120
+2020-04-19 21:49:55: 左侧：文件： 145 (已排除 0)。文件夹： 30 (已排除 1)。 G: NTFS, 可用空间：216 GB，总计空间：278 GB
+2020-04-19 21:49:55: 右侧：文件： 143 (已排除 0)。文件夹： 30 (已排除 1)。 G: NTFS, 可用空间：216 GB，总计空间：278 GB
+2020-04-19 21:49:55: 变更：4， 冲突：0， 复制时间：0， 复制状态：0/0， 错误： 0
+2020-04-19 21:49:55: Left to Right: Copy File: 4 
+2020-04-19 21:49:55: ----- ：分析已结束。 历时 00:00:00， 速度： Many 个文件/秒 -----
+2020-04-19 21:49:55: 
+2020-04-19 21:49:57: ===== ：任务 'jupyter--github'：同步已被 User 所启动，位于计算机 'DESKTOP-2EMGL50' =====
+2020-04-19 21:49:57: G:\MyJupyter (G:/MyJupyter) <-> G:\MyGithub\Lenrning\MyJupyter (G:/MyGithub/Lenrning/MyJupyter), ReconnectSecs=120
+2020-04-19 21:49:57: 新建复制 'G:/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/Untitled-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/Untitled-checkpoint.ipynb'
+2020-04-19 21:49:57: 覆盖复制 'G:/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/圆形电子钟-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/圆形电子钟-checkpoint.ipynb'
+2020-04-19 21:49:57: 新建复制 'G:/MyJupyter/标准库/tkinter模块/Untitled.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/Untitled.ipynb'
+2020-04-19 21:49:57: 覆盖复制 'G:/MyJupyter/标准库/tkinter模块/圆形电子钟.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/圆形电子钟.ipynb'
+2020-04-19 21:49:57: 保存状态文件 G:/MyJupyter/_gsdata_/_file_state_v4._gs
+2020-04-19 21:49:57: 保存状态文件 G:/MyGithub/Lenrning/MyJupyter/_gsdata_/_file_state_v4._gs
+2020-04-19 21:49:57: 项目同步未必： 4，错误： 0
+2020-04-19 21:49:57: ===== ：同步完毕。时间：00:00:00，速度： 0 字节/s =====
+2020-04-19 21:49:57: 
