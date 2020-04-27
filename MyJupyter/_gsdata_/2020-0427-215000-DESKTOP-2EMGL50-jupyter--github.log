@@ -1,0 +1,70 @@
+2020-04-27 21:50:00: ----- ：任务 'jupyter--github'：计算机 'DESKTOP-2EMGL50' 上的分析操作已由 User 所启动 (GoodSync v 9.8.0.0) -----
+2020-04-27 21:50:00: G:\MyJupyter (G:/MyJupyter) <-> G:\MyGithub\Lenrning\MyJupyter (G:/MyGithub/Lenrning/MyJupyter), ReconnectSecs=120
+2020-04-27 21:50:00: 左侧：文件： 178 (已排除 0)。文件夹： 48 (已排除 1)。 G: NTFS, 可用空间：216 GB，总计空间：278 GB
+2020-04-27 21:50:00: 右侧：文件： 164 (已排除 0)。文件夹： 38 (已排除 1)。 G: NTFS, 可用空间：216 GB，总计空间：278 GB
+2020-04-27 21:50:00: 变更：55， 冲突：0， 复制时间：0， 复制状态：0/1， 错误： 0
+2020-04-27 21:50:00: Left to Right: Copy File: 43 Delete File: 12 
+2020-04-27 21:50:00: ----- ：分析已结束。 历时 00:00:00， 速度： Many 个文件/秒 -----
+2020-04-27 21:50:00: 
+2020-04-27 21:50:01: ===== ：任务 'jupyter--github'：同步已被 User 所启动，位于计算机 'DESKTOP-2EMGL50' =====
+2020-04-27 21:50:01: G:\MyJupyter (G:/MyJupyter) <-> G:\MyGithub\Lenrning\MyJupyter (G:/MyGithub/Lenrning/MyJupyter), ReconnectSecs=120
+2020-04-27 21:50:01: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/.ipynb_checkpoints/random生成随机数-checkpoint.ipynb'
+2020-04-27 21:50:01: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/.ipynb_checkpoints/进程和线程-checkpoint.ipynb'
+2020-04-27 21:50:01: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/.ipynb_checkpoints/进程线程2-checkpoint.ipynb'
+2020-04-27 21:50:01: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/random生成随机数.ipynb'
+2020-04-27 21:50:01: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/字符串和文本/.ipynb_checkpoints/Untitled-checkpoint.ipynb'
+2020-04-27 21:50:01: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/字符串和文本/Untitled.ipynb'
+2020-04-27 21:50:01: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/PythonGUILearning-checkpoint.ipynb'
+2020-04-27 21:50:01: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/tkinter模块-checkpoint.ipynb'
+2020-04-27 21:50:01: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/PythonGUILearning.ipynb'
+2020-04-27 21:50:01: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/temp/.ipynb_checkpoints/1-checkpoint.jpg'
+2020-04-27 21:50:01: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/进程和线程.ipynb'
+2020-04-27 21:50:01: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/进程线程2.ipynb'
+2020-04-27 21:50:01: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/字符串和文本/res'
+2020-04-27 21:50:01: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/字符串和文本/res/.ipynb_checkpoints'
+2020-04-27 21:50:01: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/文件操作'
+2020-04-27 21:50:01: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/文件操作/.ipynb_checkpoints'
+2020-04-27 21:50:01: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/标准库/random随机数'
+2020-04-27 21:50:01: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/标准库/random随机数/.ipynb_checkpoints'
+2020-04-27 21:50:01: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/标准库/多进程多线程'
+2020-04-27 21:50:01: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/标准库/多进程多线程/.ipynb_checkpoints'
+2020-04-27 21:50:01: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/第三方库/opencv-python__'
+2020-04-27 21:50:01: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/第三方库/opencv-python__/.ipynb_checkpoints'
+2020-04-27 21:50:01: 新建复制 'G:/MyJupyter/.ipynb_checkpoints/f-checkpoint.txt' -> 'G:/MyGithub/Lenrning/MyJupyter/.ipynb_checkpoints/f-checkpoint.txt'
+2020-04-27 21:50:01: 新建复制 'G:/MyJupyter/.ipynb_checkpoints/练习测试-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/.ipynb_checkpoints/练习测试-checkpoint.ipynb'
+2020-04-27 21:50:01: 新建复制 'G:/MyJupyter/.ipynb_checkpoints/致橡树-checkpoint.txt' -> 'G:/MyGithub/Lenrning/MyJupyter/.ipynb_checkpoints/致橡树-checkpoint.txt'
+2020-04-27 21:50:01: 覆盖复制 'G:/MyJupyter/Pillow__/.ipynb_checkpoints/ImageFilter模块-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/Pillow__/.ipynb_checkpoints/ImageFilter模块-checkpoint.ipynb'
+2020-04-27 21:50:01: 覆盖复制 'G:/MyJupyter/Pillow__/ImageFilter模块.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/Pillow__/ImageFilter模块.ipynb'
+2020-04-27 21:50:01: 新建复制 'G:/MyJupyter/字符串和文本/.ipynb_checkpoints/strip删除不需要的字符-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/字符串和文本/.ipynb_checkpoints/strip删除不需要的字符-checkpoint.ipynb'
+2020-04-27 21:50:01: 新建复制 'G:/MyJupyter/字符串和文本/.ipynb_checkpoints/字符串匹配-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/字符串和文本/.ipynb_checkpoints/字符串匹配-checkpoint.ipynb'
+2020-04-27 21:50:01: 新建复制 'G:/MyJupyter/字符串和文本/.ipynb_checkpoints/字符串对齐-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/字符串和文本/.ipynb_checkpoints/字符串对齐-checkpoint.ipynb'
+2020-04-27 21:50:01: 新建复制 'G:/MyJupyter/字符串和文本/res/.ipynb_checkpoints/001-checkpoint.txt' -> 'G:/MyGithub/Lenrning/MyJupyter/字符串和文本/res/.ipynb_checkpoints/001-checkpoint.txt'
+2020-04-27 21:50:01: 新建复制 'G:/MyJupyter/字符串和文本/res/001.txt' -> 'G:/MyGithub/Lenrning/MyJupyter/字符串和文本/res/001.txt'
+2020-04-27 21:50:01: 新建复制 'G:/MyJupyter/字符串和文本/strip删除不需要的字符.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/字符串和文本/strip删除不需要的字符.ipynb'
+2020-04-27 21:50:01: 新建复制 'G:/MyJupyter/字符串和文本/字符串匹配.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/字符串和文本/字符串匹配.ipynb'
+2020-04-27 21:50:01: 新建复制 'G:/MyJupyter/字符串和文本/字符串对齐.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/字符串和文本/字符串对齐.ipynb'
+2020-04-27 21:50:01: 新建复制 'G:/MyJupyter/文件操作/.ipynb_checkpoints/test-checkpoint.txt' -> 'G:/MyGithub/Lenrning/MyJupyter/文件操作/.ipynb_checkpoints/test-checkpoint.txt'
+2020-04-27 21:50:01: 新建复制 'G:/MyJupyter/文件操作/.ipynb_checkpoints/Untitled-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/文件操作/.ipynb_checkpoints/Untitled-checkpoint.ipynb'
+2020-04-27 21:50:01: 新建复制 'G:/MyJupyter/文件操作/test.txt' -> 'G:/MyGithub/Lenrning/MyJupyter/文件操作/test.txt'
+2020-04-27 21:50:01: 新建复制 'G:/MyJupyter/文件操作/Untitled.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/文件操作/Untitled.ipynb'
+2020-04-27 21:50:01: 新建复制 'G:/MyJupyter/标准库/random随机数/.ipynb_checkpoints/random生成随机数-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/random随机数/.ipynb_checkpoints/random生成随机数-checkpoint.ipynb'
+2020-04-27 21:50:01: 新建复制 'G:/MyJupyter/标准库/random随机数/random生成随机数.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/random随机数/random生成随机数.ipynb'
+2020-04-27 21:50:01: 覆盖复制 'G:/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/打开和保存图片-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/.ipynb_checkpoints/打开和保存图片-checkpoint.ipynb'
+2020-04-27 21:50:01: 覆盖复制 'G:/MyJupyter/标准库/tkinter模块/pack布局.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/pack布局.ipynb'
+2020-04-27 21:50:01: 覆盖复制 'G:/MyJupyter/标准库/tkinter模块/打开和保存图片.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/tkinter模块/打开和保存图片.ipynb'
+2020-04-27 21:50:02: 新建复制 'G:/MyJupyter/标准库/多进程多线程/.ipynb_checkpoints/进程和线程-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/多进程多线程/.ipynb_checkpoints/进程和线程-checkpoint.ipynb'
+2020-04-27 21:50:02: 新建复制 'G:/MyJupyter/标准库/多进程多线程/.ipynb_checkpoints/进程线程2-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/多进程多线程/.ipynb_checkpoints/进程线程2-checkpoint.ipynb'
+2020-04-27 21:50:02: 新建复制 'G:/MyJupyter/标准库/多进程多线程/进程和线程.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/多进程多线程/进程和线程.ipynb'
+2020-04-27 21:50:02: 新建复制 'G:/MyJupyter/标准库/多进程多线程/进程线程2.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/多进程多线程/进程线程2.ipynb'
+2020-04-27 21:50:02: 覆盖复制 'G:/MyJupyter/标准库/时间time模块/.ipynb_checkpoints/时间-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/时间time模块/.ipynb_checkpoints/时间-checkpoint.ipynb'
+2020-04-27 21:50:02: 覆盖复制 'G:/MyJupyter/标准库/时间time模块/时间.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/标准库/时间time模块/时间.ipynb'
+2020-04-27 21:50:02: 新建复制 'G:/MyJupyter/第三方库/opencv-python__/.ipynb_checkpoints/test-checkpoint.png' -> 'G:/MyGithub/Lenrning/MyJupyter/第三方库/opencv-python__/.ipynb_checkpoints/test-checkpoint.png'
+2020-04-27 21:50:02: 新建复制 'G:/MyJupyter/第三方库/opencv-python__/.ipynb_checkpoints/Untitled-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/第三方库/opencv-python__/.ipynb_checkpoints/Untitled-checkpoint.ipynb'
+2020-04-27 21:50:02: 新建复制 'G:/MyJupyter/第三方库/opencv-python__/test.png' -> 'G:/MyGithub/Lenrning/MyJupyter/第三方库/opencv-python__/test.png'
+2020-04-27 21:50:02: 新建复制 'G:/MyJupyter/第三方库/opencv-python__/Untitled.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/第三方库/opencv-python__/Untitled.ipynb'
+2020-04-27 21:50:02: 新建复制 'G:/MyJupyter/练习测试.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/练习测试.ipynb'
+2020-04-27 21:50:02: 保存状态文件 G:/MyJupyter/_gsdata_/_file_state_v4._gs
+2020-04-27 21:50:02: 保存状态文件 G:/MyGithub/Lenrning/MyJupyter/_gsdata_/_file_state_v4._gs
+2020-04-27 21:50:02: 项目同步未必： 56，错误： 0
+2020-04-27 21:50:02: ===== ：同步完毕。时间：00:00:01，速度： 2.75 MB/s =====
+2020-04-27 21:50:02: 
