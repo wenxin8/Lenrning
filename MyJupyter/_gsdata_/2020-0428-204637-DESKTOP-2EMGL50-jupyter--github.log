@@ -1,0 +1,59 @@
+2020-04-28 20:46:37: ----- ：任务 'jupyter--github'：计算机 'DESKTOP-2EMGL50' 上的分析操作已由 User 所启动 (GoodSync v 9.8.0.0) -----
+2020-04-28 20:46:37: G:\MyJupyter (G:/MyJupyter) <-> G:\MyGithub\Lenrning\MyJupyter (G:/MyGithub/Lenrning/MyJupyter), ReconnectSecs=120
+2020-04-28 20:46:37: 左侧：文件： 180 (已排除 0)。文件夹： 50 (已排除 1)。 G: NTFS, 可用空间：216 GB，总计空间：278 GB
+2020-04-28 20:46:37: 右侧：文件： 178 (已排除 0)。文件夹： 48 (已排除 1)。 G: NTFS, 可用空间：216 GB，总计空间：278 GB
+2020-04-28 20:46:37: 变更：48， 冲突：0， 复制时间：0， 复制状态：0/0， 错误： 0
+2020-04-28 20:46:37: Left to Right: Copy File: 22 Delete File: 18 Rename/Move File/Folder: 8 
+2020-04-28 20:46:37: ----- ：分析已结束。 历时 00:00:00， 速度： Many 个文件/秒 -----
+2020-04-28 20:46:37: 
+2020-04-28 20:46:39: ===== ：任务 'jupyter--github'：同步已被 User 所启动，位于计算机 'DESKTOP-2EMGL50' =====
+2020-04-28 20:46:39: G:\MyJupyter (G:/MyJupyter) <-> G:\MyGithub\Lenrning\MyJupyter (G:/MyGithub/Lenrning/MyJupyter), ReconnectSecs=120
+2020-04-28 20:46:39: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/洛谷/.ipynb_checkpoints/P1888三角函数-checkpoint.ipynb'
+2020-04-28 20:46:39: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/洛谷/.ipynb_checkpoints/P4414ABC-checkpoint.ipynb'
+2020-04-28 20:46:39: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/洛谷/.ipynb_checkpoints/P5710数的性质-checkpoint.ipynb'
+2020-04-28 20:46:39: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/洛谷/.ipynb_checkpoints/P5713洛谷团队系统-checkpoint.ipynb'
+2020-04-28 20:46:39: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/洛谷/.ipynb_checkpoints/P5714肥胖问题-checkpoint.ipynb'
+2020-04-28 20:46:39: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/洛谷/.ipynb_checkpoints/P5715三位数排序-checkpoint.ipynb'
+2020-04-28 20:46:39: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/洛谷/.ipynb_checkpoints/P5717三角形分类-checkpoint.ipynb'
+2020-04-28 20:46:39: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/洛谷/.ipynb_checkpoints/Untitled1-checkpoint.ipynb'
+2020-04-28 20:46:39: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/洛谷/P1888三角函数.ipynb'
+2020-04-28 20:46:39: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/洛谷/P4414ABC.ipynb'
+2020-04-28 20:46:39: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/洛谷/P5710数的性质.ipynb'
+2020-04-28 20:46:39: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/洛谷/P5713洛谷团队系统.ipynb'
+2020-04-28 20:46:39: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/洛谷/P5714肥胖问题.ipynb'
+2020-04-28 20:46:39: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/洛谷/P5715三位数排序.ipynb'
+2020-04-28 20:46:39: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/洛谷/P5717三角形分类.ipynb'
+2020-04-28 20:46:39: 删除文件 'G:/MyGithub/Lenrning/MyJupyter/洛谷/Untitled1.ipynb'
+2020-04-28 20:46:39: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/做题/洛谷'
+2020-04-28 20:46:39: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/做题/洛谷/.ipynb_checkpoints'
+2020-04-28 20:46:39: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/笔记'
+2020-04-28 20:46:39: 创建文件夹 'G:/MyGithub/Lenrning/MyJupyter/笔记/.ipynb_checkpoints'
+2020-04-28 20:46:39: 新建复制 'G:/MyJupyter/做题/洛谷/.ipynb_checkpoints/P1888三角函数-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/做题/洛谷/.ipynb_checkpoints/P1888三角函数-checkpoint.ipynb'
+2020-04-28 20:46:39: 新建复制 'G:/MyJupyter/做题/洛谷/.ipynb_checkpoints/P4414ABC-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/做题/洛谷/.ipynb_checkpoints/P4414ABC-checkpoint.ipynb'
+2020-04-28 20:46:39: 新建复制 'G:/MyJupyter/做题/洛谷/.ipynb_checkpoints/P5710数的性质-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/做题/洛谷/.ipynb_checkpoints/P5710数的性质-checkpoint.ipynb'
+2020-04-28 20:46:39: 新建复制 'G:/MyJupyter/做题/洛谷/.ipynb_checkpoints/P5713洛谷团队系统-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/做题/洛谷/.ipynb_checkpoints/P5713洛谷团队系统-checkpoint.ipynb'
+2020-04-28 20:46:39: 新建复制 'G:/MyJupyter/做题/洛谷/.ipynb_checkpoints/P5714肥胖问题-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/做题/洛谷/.ipynb_checkpoints/P5714肥胖问题-checkpoint.ipynb'
+2020-04-28 20:46:39: 新建复制 'G:/MyJupyter/做题/洛谷/.ipynb_checkpoints/P5715三位数排序-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/做题/洛谷/.ipynb_checkpoints/P5715三位数排序-checkpoint.ipynb'
+2020-04-28 20:46:39: 新建复制 'G:/MyJupyter/做题/洛谷/.ipynb_checkpoints/P5717三角形分类-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/做题/洛谷/.ipynb_checkpoints/P5717三角形分类-checkpoint.ipynb'
+2020-04-28 20:46:39: 新建复制 'G:/MyJupyter/做题/洛谷/.ipynb_checkpoints/P5736质数筛-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/做题/洛谷/.ipynb_checkpoints/P5736质数筛-checkpoint.ipynb'
+2020-04-28 20:46:39: 新建复制 'G:/MyJupyter/做题/洛谷/P1888三角函数.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/做题/洛谷/P1888三角函数.ipynb'
+2020-04-28 20:46:39: 新建复制 'G:/MyJupyter/做题/洛谷/P4414ABC.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/做题/洛谷/P4414ABC.ipynb'
+2020-04-28 20:46:39: 新建复制 'G:/MyJupyter/做题/洛谷/P5710数的性质.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/做题/洛谷/P5710数的性质.ipynb'
+2020-04-28 20:46:39: 新建复制 'G:/MyJupyter/做题/洛谷/P5713洛谷团队系统.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/做题/洛谷/P5713洛谷团队系统.ipynb'
+2020-04-28 20:46:39: 新建复制 'G:/MyJupyter/做题/洛谷/P5714肥胖问题.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/做题/洛谷/P5714肥胖问题.ipynb'
+2020-04-28 20:46:39: 新建复制 'G:/MyJupyter/做题/洛谷/P5715三位数排序.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/做题/洛谷/P5715三位数排序.ipynb'
+2020-04-28 20:46:39: 新建复制 'G:/MyJupyter/做题/洛谷/P5717三角形分类.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/做题/洛谷/P5717三角形分类.ipynb'
+2020-04-28 20:46:39: 新建复制 'G:/MyJupyter/做题/洛谷/P5736质数筛.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/做题/洛谷/P5736质数筛.ipynb'
+2020-04-28 20:46:39: 移动文件 G:/MyGithub/Lenrning/MyJupyter/洛谷/.ipynb_checkpoints/P5711闰年判断-checkpoint.ipynb -> G:/MyGithub/Lenrning/MyJupyter/做题/洛谷/.ipynb_checkpoints/P5711闰年判断-checkpoint.ipynb
+2020-04-28 20:46:39: 移动文件 G:/MyGithub/Lenrning/MyJupyter/洛谷/.ipynb_checkpoints/P5716月份天数-checkpoint.ipynb -> G:/MyGithub/Lenrning/MyJupyter/做题/洛谷/.ipynb_checkpoints/P5716月份天数-checkpoint.ipynb
+2020-04-28 20:46:39: 删除文件夹 'G:/MyGithub/Lenrning/MyJupyter/洛谷/.ipynb_checkpoints'
+2020-04-28 20:46:39: 移动文件 G:/MyGithub/Lenrning/MyJupyter/洛谷/P5711闰年判断.ipynb -> G:/MyGithub/Lenrning/MyJupyter/做题/洛谷/P5711闰年判断.ipynb
+2020-04-28 20:46:39: 移动文件 G:/MyGithub/Lenrning/MyJupyter/洛谷/P5716月份天数.ipynb -> G:/MyGithub/Lenrning/MyJupyter/做题/洛谷/P5716月份天数.ipynb
+2020-04-28 20:46:39: 删除文件夹 'G:/MyGithub/Lenrning/MyJupyter/洛谷'
+2020-04-28 20:46:39: 新建复制 'G:/MyJupyter/笔记/.ipynb_checkpoints/进制转换-checkpoint.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/笔记/.ipynb_checkpoints/进制转换-checkpoint.ipynb'
+2020-04-28 20:46:39: 新建复制 'G:/MyJupyter/笔记/进制转换.ipynb' -> 'G:/MyGithub/Lenrning/MyJupyter/笔记/进制转换.ipynb'
+2020-04-28 20:46:39: 保存状态文件 G:/MyJupyter/_gsdata_/_file_state_v4._gs
+2020-04-28 20:46:39: 保存状态文件 G:/MyGithub/Lenrning/MyJupyter/_gsdata_/_file_state_v4._gs
+2020-04-28 20:46:39: 项目同步未必： 48，错误： 0
+2020-04-28 20:46:39: ===== ：同步完毕。时间：00:00:00，速度： 0 字节/s =====
+2020-04-28 20:46:39: 
